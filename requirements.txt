@@ -1,0 +1,7 @@
+jax
+seaborn
+seqio
+numpy
+tqdm
+jax-smi
+tensorflow
